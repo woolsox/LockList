@@ -1,0 +1,7 @@
+## Interface: 11302
+## Title: LockList
+## Author: Smolsox
+## Version: 0.1
+
+LockList.lua
+LockList.xml
